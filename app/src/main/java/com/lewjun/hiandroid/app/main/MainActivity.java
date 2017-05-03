@@ -1,7 +1,9 @@
-package com.lewjun.hiandroid;
+package com.lewjun.hiandroid.app.main;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.lewjun.hiandroid.R;
 
 public class MainActivity extends AppCompatActivity {
 
